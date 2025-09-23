@@ -3,6 +3,8 @@
 🚧This are is currently under construction🚧
 
 ![profile view count](https://komarev.com/ghpvc/?username=cdmanning16)
+
+[![Python Language](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFE873)](https://www.python.org/)
 <!--
 **Revelmonger/Revelmonger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
