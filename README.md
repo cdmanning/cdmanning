@@ -1,6 +1,8 @@
 ## Hi there 
 
 🚧This are is currently under construction🚧
+
+![profile view count](https://komarev.com/ghpvc/?username=cdmanning16)
 <!--
 **Revelmonger/Revelmonger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
