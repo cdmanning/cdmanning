@@ -7,11 +7,11 @@
 [![Python Language](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFE873)](https://www.python.org/)
 
 ##  Here are some languages I'm learning 🌍
-[![japanese flag](assets/japanFlag.svg)](https://www.duolingo.com/profile/ph.EZPrlM "Japanese")
+[![japanese flag](assets/japanFlag.svg)](https://www.duolingo.com/profile/cdmann0288 "Japanese")
 &nbsp;&nbsp;&nbsp;
-[![spanish flag](assets/spanishFlag.svg)](https://www.duolingo.com/profile/ph.EZPrlM "Spanish")
+[![spanish flag](assets/spanishFlag.svg)](https://www.duolingo.com/profile/cdmann0288 "Spanish")
 &nbsp;&nbsp;&nbsp;
-[![korean flag](assets/koreanFlag.svg)](https://www.duolingo.com/profile/ph.EZPrlM "Korean")
+[![korean flag](assets/koreanFlag.svg)](https://www.duolingo.com/profile/cdmann0288 "Korean")
 
 ##  Keeping my skill sharp with Leetcode 🧩
 
