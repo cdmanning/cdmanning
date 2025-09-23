@@ -7,7 +7,7 @@
 [![Python Language](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFE873)](https://www.python.org/)
 
 [![japanese flag](assets/japanFlag.svg)](https://www.duolingo.com/profile/ph.EZPrlM)
-
+[![spanish flag](assets/spanishFlag.svg)](https://www.duolingo.com/profile/ph.EZPrlM)
 
 
 
