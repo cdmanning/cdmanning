@@ -18,9 +18,12 @@
   Here is a little more to get to know me
 </h2>
 
+
 <h3 align='center'>
   ⌨️ These are my tools of the trade 🖱️
 </h3>
+<div>
+  
 
 <span>
     <div align="center">
@@ -31,25 +34,11 @@
       <a href="https://www.python.org/"><img src="assets/python-icon.svg" alt="Python" title="Python"></a>
       &nbsp;&nbsp;&nbsp;
       <a href="https://code.visualstudio.com/"><img src="assets/visualstudio_code-icon.svg" alt="Visual Studio Code" title="Visual Studio Code"></a>
-    </div>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://brave.com/"><img src="assets/brave-icon.svg" alt="Brave Browser" title="Brave Browser"></a>
 </span>
-
-<br>
-
-<h3 align='center'>
-  🌎 Learning these languages to expand my horizons 🌍
-</h3 align='center'>
-
-<span >
-  <div align="center">
-  <a href="https://www.duolingo.com/profile/cdmann0288" ><img src="assets/japanFlag.svg" alt="Japanese Flag" title="Japanese"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.duolingo.com/profile/cdmann0288"><img src="assets/spanishFlag.svg" alt="Spanish Flag" title="Spanish"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.duolingo.com/profile/cdmann0288"><img src="assets/koreanFlag.svg" alt="Korean Flag" title="Korean"></a>
 </div>
-</span>
-
+  
 <br>
 
 <h3 align='center'>
@@ -63,6 +52,23 @@
   <img src="https://img.shields.io/badge/AMD-%20RX%207900%20XTX-%23bd0000.svg?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
+<br>
+
+<h3 align='center'>
+  🌎 Learning these languages to expand my horizons 🌍
+</h3 align='center'>
+<div>
+  
+<span >
+  <div align="center">
+  <a href="https://www.duolingo.com/profile/cdmann0288" ><img src="assets/japanFlag.svg" alt="Japanese Flag" title="Japanese"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.duolingo.com/profile/cdmann0288"><img src="assets/spanishFlag.svg" alt="Spanish Flag" title="Spanish"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.duolingo.com/profile/cdmann0288"><img src="assets/koreanFlag.svg" alt="Korean Flag" title="Korean"></a>
+  </div>
+</span>
+</div>
 <br>
 
 <h2 align='center'>
