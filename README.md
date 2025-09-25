@@ -77,7 +77,7 @@
 
 <span >
     <div align="center">
-    <a href="mailto:someone@example.com" ><img src="assets/envelope.png" alt="Click Here to Email" title="Email"></a>
+    <a href="mailto:cdmanning.developer@proton.me" ><img src="assets/envelope.png" alt="Click Here to Email" title="Email"></a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/chasedmanning/"><img height="50" src="/assets/linkdin.png" alt="Linkdin" title="Linkdin"></a>
   </div>
