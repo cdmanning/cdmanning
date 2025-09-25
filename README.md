@@ -15,7 +15,7 @@
 <br>
 
 <h2 align='center'>
-  Here is a little more to get to know me
+  A little bit about me 🙋‍♂️ 
 </h2>
 
 
