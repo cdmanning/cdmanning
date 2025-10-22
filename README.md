@@ -78,7 +78,7 @@ I'm a developer from the United States of America, currently living in the Easte
 
 
 <h2 align='center'>
-📫 You can reach me at: 
+📫 You can reach out to me by: 
 </h2>
 <span >
   <div align="center">
