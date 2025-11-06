@@ -50,7 +50,7 @@ I'm a developer from the United States of America, currently living in the Easte
     <img src="https://img.shields.io/badge/windows-%2308a1f7.svg?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/AMD-Ryzen%209%207950X3D-%23bd0000.svg?&style=for-the-badge&logo=amd&logoColor=white" />
     <img src="https://img.shields.io/badge/RAM-32GB%20DDR5-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/AMD-%20RX%207900%20XTX-%23bd0000.svg?style=for-the-badge&logo=amd&logoColor=white" />
+    <img src="https://img.shields.io/badge/AMD-%20RX%209700%20XT-%23bd0000.svg?style=for-the-badge&logo=amd&logoColor=white" />
     </p>
 </div>  
 
