@@ -76,13 +76,13 @@ I'm a developer from the United States, currently living on the East Coast 🌎.
 <br>
 
 <h2 align='center'>
-📫 You can reach out to me by: 
+📬 Get in Touch: 
 </h2>
 <span >
   <div align="center">
-    <a href="mailto:cdmanning.developer@proton.me" ><img src="assets/envelope.png" alt="Click Here to Email" title="Email"></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/chasedmanning/"><img height="50" src="/assets/linkdin.png" alt="Linkdin" title="Linkdin"></a>
+    <a href="mailto:cdmanning.developer@proton.me" ><img src="assets/envelope.png" alt="Click Here to Email" title="Email" height="50" ></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/chasedmanning"><img src="/assets/linkdin.png" alt="Linkdin" title="Linkdin" height="50" ></a>
   </div>
 </span>
 
