@@ -80,9 +80,9 @@ I'm a developer from the United States, currently living on the East Coast 🌎.
 </h2>
 <span >
   <div align="center">
-    <a href="mailto:cdmanning.developer@proton.me" ><img src="assets/envelope.png" alt="Click Here to Email" title="Email" height="50" ></a>
+    <a href="mailto:cdmanning.developer@proton.me" ><img src="assets/envelope.png" alt="Click Here to Email" title="Email" height="40" ></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/chasedmanning"><img src="/assets/linkdin.png" alt="Linkdin" title="Linkdin" height="50" ></a>
+    <a href="https://www.linkedin.com/in/chasedmanning"><img src="/assets/linkdin.png" alt="Linkdin" title="Linkdin" height="40" ></a>
   </div>
 </span>
 
