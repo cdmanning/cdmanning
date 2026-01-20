@@ -59,7 +59,7 @@ I'm a developer from the United States, currently living on the East Coast 🌎.
 <br>
 
 <h3 align='center'>
-  🌎 Learning these languages to expand my horizons 🌍
+  🌎 Learning these languages to connect with new people! 🌍
 </h3 align='center'>
 <div>
   <span >
